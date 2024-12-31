@@ -1,0 +1,3 @@
+Hippodrome version complète
+Une seule opération regroupe tous les codes  réalisés avec un suiveur de ligne sur un circuit. Au début c'est un simple hippodrome, puis avec les capteurs de surface gauche et droite on fait un aller-retour. Le capteur de surface central détecte ensuite un objet et déclenche une procédure d'évitement d'obstacle. Pour terminer les capteurs de sol coté gauche et droit détectent une bande noire sur la surface et engagent des demi-tours , sens horaire et anti-horaire. Un simple hippodrome clôt la séquence. Dans cette réalisation tous les capteurs de sol et de surface
+ont été utilisés.
